@@ -1,3 +1,3 @@
-commit test
+another commit test
 
 and here we go with commit #2!
